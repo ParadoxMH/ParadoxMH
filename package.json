@@ -1,8 +1,8 @@
 {
-  "name": "portfolio-app",
+  "name": "paradox-portfolio-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dbarochiya.github.io/me",
+  "homepage": "https://paradoxmh.github.io/Me/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.3",
